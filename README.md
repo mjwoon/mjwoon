@@ -22,20 +22,20 @@
 ## 🌟 About Me
 
 ```typescript
-const jimin = {
-  name: "Jimin Jang (장지민)",
+const mjwoon = {
+  name: "Jiwon Moon (문지원)",
   location: "Seoul, South Korea 🇰🇷",
   education: "Hanyang University ERICA",
   major: ["B.S. in ICT Convergence(HCI) & Computer Science(CS)"],
   currentFocus: "사용자 경험에 기여하는 AI 기반 서비스 개발",
-  interests: ["AI/ML", "Back-end Development", "System Architecture"],
+  interests: ["AI/ML", "Backend Development", "System Architecture"],
   techStack: {
     backend: ["Spring Boot", "FastAPI", "Python"],
-    frontend: ["Flutter", "HTML/CSS"],
-    ai: ["Stable Diffusion", "PyTorch"],
-    cloud: ["AWS S3", "Docker", "Redis"]
+    frontend: ["React", "HTML/CSS/JS"],
+    ai: ["TensorFlow","Stable Diffusion", "PyTorch"],
+    cloud: ["AWS S3", "Docker"]
   },
-  motto: "함께 성장하는 가치를 중요하게 생각합니다 🌱"
+  motto: "함께 성장하는 가치를 중요하게 생각합니다"
 };
 ```
 
@@ -45,26 +45,24 @@ const jimin = {
 
 **한양대학교 ERICA** (2023.02 ~ Present)
 - 📚 **ICT융합학부 & 컴퓨터학부 다중전공**
-- 🏆 **3개 공모전 수상** (총장상, 학장상, 관광공사사장상)
-- 💻 **4개 해커톤 참여** (메이커톤, HY-THON, HY-END 등)
-- 🚀 새로운 기술을 배우고 실전에 적용하는 것을 즐깁니다
-
 ---
 
 ## 💻 Tech Stack
 
 ### 🎯 Language
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🌐 Frontend & Mobile
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=flutter&logoColor=white)
 
-### ⚙️ Backend & Framework
+### ⚙️ Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -74,7 +72,6 @@ const jimin = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -117,8 +114,8 @@ const jimin = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jangjimin9766&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjimin9766&theme=material-palenight&layout=compact&hide_border=true&langs_count=8" height="180px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mjwoon&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjwoon&theme=material-palenight&layout=compact&hide_border=true&langs_count=8" height="180px" alt="Top Languages" />
 </div>
 
 <div align="center">
