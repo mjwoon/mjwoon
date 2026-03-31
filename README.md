@@ -111,18 +111,6 @@ const mjwoon = {
 </div>
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mjwoon&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjwoon&theme=material-palenight&layout=compact&hide_border=true&langs_count=8" height="180px" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jangjimin9766&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
 
